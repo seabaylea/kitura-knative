@@ -1,0 +1,4 @@
+module agentcore {
+    umbrella "/Users/bailey/knative/swift/Untitled/.build/checkouts/omr-agentcore--7954763935338707461/src/agentcore/include"
+    export *
+}
